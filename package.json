@@ -1,0 +1,36 @@
+{
+	"name": "voyager-nav",
+	"version": "1.0.0",
+	"description": "An utility to observe elements and highlight corresponding links when they intersect the viewport.",
+	"main": "dist/index.js",
+	"types": "dist/index.d.ts",
+	"scripts": {
+		"build": "tsc",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [
+		"voyager",
+		"intersection observer",
+		"scroll",
+		"active link",
+		"highlight links",
+		"scroll spy",
+		"one-page navigation",
+		"viewport detection",
+		"dynamic navigation",
+		"single page",
+		"scroll-based navigation",
+		"scroll effect",
+		"link highlighting"
+	],
+	"author": "Salamandra",
+	"homepage": "https://github.com/StallionStudios/voyager-nav",
+	"license": "MIT",
+	"files": [
+		"dist"
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/StallionStudios/voyager-nav.git"
+	}
+}
