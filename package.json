@@ -1,6 +1,6 @@
 {
 	"name": "voyager-nav",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"description": "An utility to observe elements and highlight corresponding links when they intersect the viewport.",
 	"main": "dist/index.js",
 	"types": "dist/index.d.ts",
@@ -32,5 +32,8 @@
 	"repository": {
 		"type": "git",
 		"url": "git+https://github.com/StallionStudios/voyager-nav.git"
+	},
+	"devDependencies": {
+		"typescript": "^5.6.3"
 	}
 }
